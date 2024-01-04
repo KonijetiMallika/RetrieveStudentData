@@ -1,0 +1,20 @@
+Name   : vasavi
+College: Narayana
+Course : ECE
+Marks  : 880
+
+
+Name   : Chindhu
+College: MLRITM
+Course : Computer Science
+Marks  : 750
+
+Name   : sameer
+College: St Peters
+Course : Information Science 
+Marks  : 650
+
+Name   : anvitha
+College: NIT
+Course : Computer Science
+Marks  : 850
